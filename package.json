@@ -5,6 +5,9 @@
     "dev": "next dev",
     "start": "next start"
   },
+  "overrides": {
+    "tar": ">=7.0.0"
+  },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@tailwindcss/forms": "^0.5.6",
