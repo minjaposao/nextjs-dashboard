@@ -6,7 +6,8 @@
     "start": "next start"
   },
   "overrides": {
-    "tar": ">=7.0.0"
+    "tar": ">=7.0.0",
+    "ws": ">=8.17.1"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
